@@ -61,6 +61,7 @@ A# Driving Log Analysis 포트폴리오 (Python)
 
 📄 문서: `project-05-adas-intervention-score.md`
 
+This project is designed from an ADAS validation perspective rather than pure data analysis
 ---
 
 ## 🛠 기술 스택
@@ -89,11 +90,11 @@ A# Driving Log Analysis 포트폴리오 (Python)
 ---
 
 ## 🔗 GitHub
-https://github.com/kw3017-glitch/driving-log-analysis
  / 테스트 엔지니어 포트폴리오
 - 운전자 주행 성향 분석
 
 - Matplotlib
 tion
+
 
 
