@@ -1,5 +1,10 @@
 Driving Log Analysis 포트폴리오 (Python)
 
+This repository demonstrates driving-log-based
+vehicle QA and ADAS validation logic,
+focusing on event detection, driver behavior analysis,
+and intervention decision criteria.
+
 이 저장소는 차량 주행 로그 데이터를 기반으로
 급가속과 급제동 이벤트를 탐지하고,
 이를 통해 운전자의 주행 성향과 위험도를 분석하는 데이터 분석 프로젝트 모음이다.
@@ -91,3 +96,4 @@ GitHub
 
 이 저장소는 테스트 엔지니어 포트폴리오 용도로 구성했다.
 운전자 주행 성향 분석과 주행 데이터 검증 로직 구현에 초점을 두었다.
+
